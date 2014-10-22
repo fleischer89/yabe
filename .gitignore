@@ -3,3 +3,7 @@ tmp/
 *.iml
 *.ipr
 *.iws
+/modules
+/lib
+/test-result
+/logs
